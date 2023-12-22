@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized Archives - Cloud Dev Tips</title>
-	<atom:link href="http://clouddevtips.com/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://clouddevtips.com/category/uncategorized/</link>
+	<atom:link href="https://clouddevtips.github.io/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://clouddevtips.github.io/category/uncategorized/</link>
 	<description></description>
 	<lastBuildDate>Wed, 20 Dec 2023 08:34:04 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.4.1</generator>
 
 <image>
-	<url>http://clouddevtips.com/wp-content/uploads/2023/11/cropped-download-1-32x32.png</url>
+	<url>https://clouddevtips.github.io/wp-content/uploads/2023/11/cropped-download-1-32x32.png</url>
 	<title>Uncategorized Archives - Cloud Dev Tips</title>
-	<link>http://clouddevtips.com/category/uncategorized/</link>
+	<link>https://clouddevtips.github.io/category/uncategorized/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>http://clouddevtips.com/hello-world/</link>
-					<comments>http://clouddevtips.com/hello-world/#comments</comments>
+		<link>https://clouddevtips.github.io/hello-world/</link>
+					<comments>https://clouddevtips.github.io/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[wordpress_user]]></dc:creator>
 		<pubDate>Mon, 27 Nov 2023 19:45:28 +0000</pubDate>
@@ -38,14 +38,14 @@
 		<guid isPermaLink="false">http://filmesluis.dynip.sapo.pt/wordpress/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="http://clouddevtips.com/hello-world/">Hello world!</a> appeared first on <a href="http://clouddevtips.com">Cloud Dev Tips</a>.</p>
+<p>The post <a href="https://clouddevtips.github.io/hello-world/">Hello world!</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="http://clouddevtips.com/hello-world/">Hello world!</a> appeared first on <a href="http://clouddevtips.com">Cloud Dev Tips</a>.</p>
+<p>The post <a href="https://clouddevtips.github.io/hello-world/">Hello world!</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://clouddevtips.com/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://clouddevtips.github.io/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
