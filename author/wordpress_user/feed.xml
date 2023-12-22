@@ -1,1 +1,54 @@
-"<?xml version=\"1.0\" encoding=\"UTF-8\"?><rss version=\"2.0\"\r\n\txmlns:content=\"http:\/\/purl.org\/rss\/1.0\/modules\/content\/\"\r\n\txmlns:wfw=\"http:\/\/wellformedweb.org\/CommentAPI\/\"\r\n\txmlns:dc=\"http:\/\/purl.org\/dc\/elements\/1.1\/\"\r\n\txmlns:atom=\"http:\/\/www.w3.org\/2005\/Atom\"\r\n\txmlns:sy=\"http:\/\/purl.org\/rss\/1.0\/modules\/syndication\/\"\r\n\txmlns:slash=\"http:\/\/purl.org\/rss\/1.0\/modules\/slash\/\"\r\n\t>\r\n\r\n<channel>\r\n\t<title>wordpress_user, Author at Cloud Dev Tips<\/title>\r\n\t<atom:link href=\"https:\/\/clouddevtips.github.io\/author\/wordpress_user\/feed\/\" rel=\"self\" type=\"application\/rss+xml\" \/>\r\n\t<link>https:\/\/clouddevtips.github.io\/author\/wordpress_user\/<\/link>\r\n\t<description><\/description>\r\n\t<lastBuildDate>Wed, 20 Dec 2023 08:34:04 +0000<\/lastBuildDate>\r\n\t<language>en-US<\/language>\r\n\t<sy:updatePeriod>\r\n\thourly\t<\/sy:updatePeriod>\r\n\t<sy:updateFrequency>\r\n\t1\t<\/sy:updateFrequency>\r\n\t<generator>https:\/\/wordpress.org\/?v=6.4.1<\/generator>\n\r\n<image>\r\n\t<url>https:\/\/clouddevtips.github.io\/wp-content\/uploads\/2023\/11\/cropped-download-1-32x32.png<\/url>\r\n\t<title>wordpress_user, Author at Cloud Dev Tips<\/title>\r\n\t<link>https:\/\/clouddevtips.github.io\/author\/wordpress_user\/<\/link>\r\n\t<width>32<\/width>\r\n\t<height>32<\/height>\r\n<\/image> \n\t<item>\r\n\t\t<title>Hello world!<\/title>\r\n\t\t<link>https:\/\/clouddevtips.github.io\/hello-world\/<\/link>\r\n\t\t\t\t\t<comments>https:\/\/clouddevtips.github.io\/hello-world\/#comments<\/comments>\r\n\t\t\r\n\t\t<dc:creator><![CDATA[wordpress_user]]><\/dc:creator>\r\n\t\t<pubDate>Mon, 27 Nov 2023 19:45:28 +0000<\/pubDate>\r\n\t\t\t\t<category><![CDATA[Uncategorized]]><\/category>\n\t\t<guid isPermaLink=\"false\">http:\/\/filmesluis.dynip.sapo.pt\/wordpress\/?p=1<\/guid>\r\n\r\n\t\t\t\t\t<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!<\/p>\n<p>The post <a href=\"https:\/\/clouddevtips.github.io\/hello-world\/\">Hello world!<\/a> appeared first on <a href=\"https:\/\/clouddevtips.github.io\/\">Cloud Dev Tips<\/a>.<\/p>\n]]><\/description>\r\n\t\t\t\t\t\t\t\t\t\t<content:encoded><![CDATA[\n<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!<\/p>\n<p>The post <a href=\"https:\/\/clouddevtips.github.io\/hello-world\/\">Hello world!<\/a> appeared first on <a href=\"https:\/\/clouddevtips.github.io\/\">Cloud Dev Tips<\/a>.<\/p>\n]]><\/content:encoded>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<wfw:commentRss>https:\/\/clouddevtips.github.io\/hello-world\/feed\/<\/wfw:commentRss>\r\n\t\t\t<slash:comments>1<\/slash:comments>\r\n\t\t\r\n\t\t\r\n\t\t\t<\/item>\r\n\t<\/channel>\r\n<\/rss>\r\n"
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wordpress_user, Author at Cloud Dev Tips</title>
+	<atom:link href="https://clouddevtips.github.io/author/wordpress_user/feed/" rel="self" type="application/rss+xml" />
+	<link>https://clouddevtips.github.io/author/wordpress_user/</link>
+	<description></description>
+	<lastBuildDate>Wed, 20 Dec 2023 08:34:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
+
+<image>
+	<url>https://clouddevtips.github.io/wp-content/uploads/2023/11/cropped-download-1-32x32.png</url>
+	<title>wordpress_user, Author at Cloud Dev Tips</title>
+	<link>https://clouddevtips.github.io/author/wordpress_user/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://clouddevtips.github.io/hello-world/</link>
+					<comments>https://clouddevtips.github.io/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[wordpress_user]]></dc:creator>
+		<pubDate>Mon, 27 Nov 2023 19:45:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://filmesluis.dynip.sapo.pt/wordpress/?p=1</guid>
+
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="https://clouddevtips.github.io/hello-world/">Hello world!</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>The post <a href="https://clouddevtips.github.io/hello-world/">Hello world!</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://clouddevtips.github.io/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
