@@ -12,7 +12,7 @@
 	<atom:link href="https://clouddevtips.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://clouddevtips.github.io/</link>
 	<description></description>
-	<lastBuildDate>Wed, 20 Dec 2023 08:34:04 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 23 Dec 2023 18:06:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,30 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Test</title>
+		<link>https://clouddevtips.github.io/test/</link>
+		
+		<dc:creator><![CDATA[wordpress_user]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 18:06:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://clouddevtips.github.io/?p=22</guid>
+
+					<description><![CDATA[<p>stuff</p>
+<p>The post <a href="https://clouddevtips.github.io/test/">Test</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>stuff</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://clouddevtips.github.io/wp-content/uploads/2023/12/all-ki-logo.png" alt="" class="wp-image-24"/></figure>
+<p>The post <a href="https://clouddevtips.github.io/test/">Test</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>https://clouddevtips.github.io/hello-world/</link>
 					<comments>https://clouddevtips.github.io/hello-world/#comments</comments>
@@ -37,11 +61,11 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http://filmesluis.dynip.sapo.pt/wordpress/?p=1</guid>
 
-					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+					<description><![CDATA[<p>I really like wordpress</p>
 <p>The post <a href="https://clouddevtips.github.io/hello-world/">Hello world!</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>I really like wordpress</p>
 <p>The post <a href="https://clouddevtips.github.io/hello-world/">Hello world!</a> appeared first on <a href="https://clouddevtips.github.io/">Cloud Dev Tips</a>.</p>
 ]]></content:encoded>
 					
