@@ -19,4 +19,10 @@ window.addEventListener("resize", function(){
 window.addEventListener("DOMContentLoaded", function(){
 	UAGBForms.init( {"block_id":"rsntiymj","reCaptchaEnable":false,"reCaptchaType":"v2","reCaptchaSiteKeyV2":"","reCaptchaSecretKeyV2":"","reCaptchaSiteKeyV3":"","reCaptchaSecretKeyV3":"","afterSubmitToEmail":"abc@gmail.com","afterSubmitCcEmail":"","afterSubmitBccEmail":"","afterSubmitEmailSubject":"Form Submission","sendAfterSubmitEmail":true,"confirmationType":"message","hidereCaptchaBatch":false,"captchaMessage":"Please fill up the above captcha.","confirmationUrl":"https:\/\/google.com"}, '.uagb-block-rsntiymj', 493 );
 });
+window.addEventListener("DOMContentLoaded", function(){
+	UAGBTimelineClasses( {"block_id":"86632b1f","timelinAlignment":"center","timelinAlignmentTablet":"left","timelinAlignmentMobile":"left"}, '.uagb-block-86632b1f' );
+});
+window.addEventListener("resize", function(){
+	UAGBTimelineClasses( {"block_id":"86632b1f","timelinAlignment":"center","timelinAlignmentTablet":"left","timelinAlignmentMobile":"left"}, '.uagb-block-86632b1f' );
+});
  });
